@@ -3,18 +3,16 @@
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 </p>
+
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MRyutaro&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+
 <p>
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
 ## 🎓 経歴
-| 期間 | 名前 |
-|:--------|:--------|
-| Test 1  | Test 2  |
-| Test 3  | Test 4  |
 
 | 期間 | 名前 |
 |:--------|:--------|
@@ -23,6 +21,7 @@
 | 2018年（平成30）4月～2021年（令和3年）3月 | [広島市立基町高等学校](https://www.motomachi-hs.jp/)  |
 
 ## 🏢 バイト・インターン
+
 | 期間 | 名前 | 形態 |
 |:---|:---|:---|
 | 2023年（令和5年）4月～2025年（令和7年）2月現在 | [くろねこラボ合同会社](https://www.knlab.co.jp/) | フルリモート |
@@ -30,6 +29,7 @@
 | 2021年（令和3年）4月～2022年（令和4年）3月 | [田中学習会](https://www.tanakagakushukai.com/) | オフィス |
 
 ## 📜 資格
+
 | 年月 | 名前 |
 |:---|:---|
 | 2024年（令和6年）4月 | TOEIC Listening & Reading Test 835点 |
@@ -39,6 +39,7 @@
 ## 🚀 プロジェクト
 ### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 mdxの仮想マシン上で以下のソフトウェアの環境構築を行った。
+
 | サービス名 | 説明 |
 |:-----|:-----|
 | [SoftEther VPN](https://ja.softether.org/) | オープンソースのVPNソフトウェア。以下のサービスを関係者だけが扱えるようにするために導入した。環境構築の手順を[記事](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43)にまとめた。 |
@@ -130,6 +131,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - CSS (Bootstrap)
 
 ## 📝 記事
+
 | 投稿日 | タイトル |
 |:---|:---|
 | 2025/02/18 | [【ハッカソン】技育CAMP2024 Vol.22で優秀賞を受賞しました！](https://qiita.com/ryutarom128/items/6570a20bea69119de9bd) |
