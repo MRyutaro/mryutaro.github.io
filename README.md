@@ -1,10 +1,4 @@
-## 👋 Hi there
 最終更新日：2025/03/16
-
-![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
-![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
-![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)
-![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -19,25 +13,14 @@
 ## 🎓 経歴
 | 期間 | 名前 |
 |:--------|:--------|
-| 2025年（令和7年）4月～2027年（令和9年）3月 | [大阪大学大学院情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)  |
-| 2021年（令和3年）4月～2025年（令和7年）3月 | [大阪大学工学部電子情報工学科](http://school.eei.eng.osaka-u.ac.jp/)  |
+| Test 1  | Test 2  |
+| Test 3  | Test 4  |
+
+| 期間 | 名前 |
+|:--------|:--------|
+| 2025年（令和7年）4月～2027年（令和9年）3月 | [大阪大学大学院情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)（卒業見込み） |
+| 2021年（令和3年）4月～2025年（令和7年）3月 | [大阪大学工学部電子情報工学科](http://school.eei.eng.osaka-u.ac.jp/) |
 | 2018年（平成30）4月～2021年（令和3年）3月 | [広島市立基町高等学校](https://www.motomachi-hs.jp/)  |
-
-| Column 1 | Column 2 |
-|:--------|:--------|
-| Test 1  | Test 2  |
-| Test 3  | Test 4  |
-
-| 期間 | 名前 |
-|:--------|:--------|
-| Test 1  | Test 2  |
-| Test 3  | Test 4  |
-
-| 期間 | 名前 |
-|:--------|:--------|
-| 2025年（令和7年）4月～2027年（令和9年）3月 | Test 2  |
-| 2021年（令和3年）4月～2025年（令和7年）3月 | Test 4  |
-| 2018年（平成30）4月～2021年（令和3年）3月 | Test 4  |
 
 ## 🏢 バイト・インターン
 | 期間 | 名前 | 形態 |
